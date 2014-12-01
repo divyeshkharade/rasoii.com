@@ -157,7 +157,10 @@
 				popupLoaderText: '',
 				windowMargin: 10,
 				usePopupNav: true
-			});			
+			});
+
+			//H5F
+			H5F.setup(document.getElementById("ss-form"));
 	});
 
 })(jQuery);
