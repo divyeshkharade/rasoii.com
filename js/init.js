@@ -147,20 +147,21 @@
 			}
 
 		// Poptrox.
-			$('.gallery').poptrox({
-				useBodyOverflow: false,
-				usePopupEasyClose: false,
-				overlayColor: '#0a1919',
-				overlayOpacity: (skel.vars.IEVersion < 9 ? 0 : 0.75),
-				usePopupDefaultStyling: false,
-				usePopupCaption: true,
-				popupLoaderText: '',
-				windowMargin: 10,
-				usePopupNav: true
-			});
+			// $('.gallery').poptrox({
+			// 	useBodyOverflow: false,
+			// 	usePopupEasyClose: false,
+			// 	overlayColor: '#0a1919',
+			// 	overlayOpacity: (skel.vars.IEVersion < 9 ? 0 : 0.75),
+			// 	usePopupDefaultStyling: false,
+			// 	usePopupCaption: true,
+			// 	popupLoaderText: '',
+			// 	windowMargin: 10,
+			// 	usePopupNav: true
+			// });
 
 			//H5F
-			H5F.setup(document.getElementById("ss-form"));
+			if(typeof(H5F) !== "undefined")
+				H5F.setup(document.getElementById("ss-form"));
 	});
 
 })(jQuery);

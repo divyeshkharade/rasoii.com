@@ -1158,7 +1158,7 @@
 		{
 			display: block;
 			width: 100%;
-			margin: 0 0 3.5em 0;
+			margin: 0 0 2.5em 0;
 		}
 
 #features-wrapper h3 {
@@ -1173,4 +1173,8 @@
 	padding-right: 0.75em;
 	opacity: 0.5;
 	top: 0.05em;
+}
+
+#features .course-item {
+	margin-bottom: 20px;
 }
