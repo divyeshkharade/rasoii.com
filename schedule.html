@@ -16,66 +16,38 @@
   <body>
     <section id="banner">
       <header>
-        <h2>Courses</h2>
+        <h2>Schedule</h2>
       </header>
-      <p>A quick look at the different courses available</p>
+      <p>A quick look at the upcoming schedule</p>
     </section>
     <div id="schedule-wrapper">
       <section class="container">
-        <ul class="cbp_tmtimeline">
-        <li>
-            <time class="cbp_tmtime" datetime="2013-04-10 18:30"><span>06:00 PM</span> <span>25 Sep</span></time>
-            <div class="cbp_tmicon cbp_tmicon-phone"></div>
-            <div class="cbp_tmlabel">
-                <h3>Ricebean black-eyed pea</h3>
-                <img class="img-responsive" src="http://placekitten.com/g/450/280" alt="" />
-                <p>Be a pro in your home kitchen with fun & easy 25+ recipes for daily cooking in 3 days. Course includes varieties of Roti, Vegetables, Rice, Pulses, Snacks & Desserts along with smart cooking tips.</p>
-            </div>
-        </li>
-        <li>
-            <time class="cbp_tmtime" datetime="2013-04-11T12:04"><span>11:00 AM</span> <span>28 Sep</span></time>
-            <div class="cbp_tmicon cbp_tmicon-screen"></div>
-            <div class="cbp_tmlabel">
-                <h3>Greens radish arugula</h3>
-                <img class="img-responsive" src="http://placekitten.com/g/300/220" alt="" />
-                <p>Bake delicious cakes with hassle free icing in 2 days. Course includes Vanilla sponge cake, Chocolate sponge cake, Pineapple with praline, Black forest, Dutch truffle, Brownie, Muffins.</p>
-            </div>
-        </li>
-        <li>
-            <time class="cbp_tmtime" datetime="2013-04-13 05:36"><span>10:30 AM</span> <span>01 Oct</span></time>
-            <div class="cbp_tmicon cbp_tmicon-mail"></div>
-            <div class="cbp_tmlabel">
-                <h3>Sprout garlic kohlrabi</h3>
-                <img class="img-responsive" src="http://placekitten.com/g/480/290" alt="" />
-                <p>Learn different pasta & macaroni teamed up with your favorite sauces like Alfredo sauce, Arabiata sauce, Basil pesto, Spaghetti Nepolitana, Pine baked macaroni & Garlic bread.</p>
-            </div>
-        </li>
-        <li>
-            <time class="cbp_tmtime" datetime="2013-04-15 13:15"><span>05:00 PM</span> <span>01 Oct</span></time>
-            <div class="cbp_tmicon cbp_tmicon-phone"></div>
-            <div class="cbp_tmlabel">
-                <h3>Watercress ricebean</h3>
-                <img class="img-responsive" src="http://placekitten.com/g/420/265" alt="" />
-                <p>Give a northern tadka with restaurant style vegetables like Paneer butter masala, Palak afghan, Kadai paneer, Diwani handi, Kashmiri duma aloo, Veg korma along with Chura laccha paratha.</p>
-            </div>
-        </li>
-        <li>
-            <time class="cbp_tmtime" datetime="2013-04-16 21:30"><span>03:30 PM</span> <span>05 Oct</span></time>
-            <div class="cbp_tmicon cbp_tmicon-earth"></div>
-            <div class="cbp_tmlabel">
-                <h3>Courgette daikon</h3>
-                <img class="img-responsive" src="http://placekitten.com/g/350/200" alt="" />
-                <p>Spice up with authentic Mexican dishes. Course includes spicy corn Paneer quisiladas, Nachos with cheese sauce, Corn toastadas, Beans & cheese enchiladas, Beans tacos, Tortilla soup</p>
-            </div>
-        </li>
-    </ul>
+        <ul id="ulSchedule" class="cbp_tmtimeline">
+
+        </ul>
       </section>
     </div>
+    <script id="tmpl-schedule-item" type="text/x-handlebars-template">
+      {{#each schedule}}
+      <li>
+          <time class="cbp_tmtime" datetime="{{date}}"><span>{{hbTime date}}</span> <span>{{hbDate date}}</span></time>
+          <div class="cbp_tmicon fa fa-cutlery"></div>
+          <div class="cbp_tmlabel">
+              <h3>{{title}}</h3>
+              {{#if img_url}}
+              <img class="img-responsive" src="{{img_url}}" alt="" />
+              {{/if}}
+              <p>{{description}}</p>
+          </div>
+      </li>
+      {{/each}}
+    </script>
     <!--[if lte IE 8]><script src="css/ie/html5shiv.js"></script><![endif]-->
     <script src="js/jquery.min.js"></script>
     <script src="js/jquery.scrolly.min.js"></script>
     <script src="js/skel.min.js"></script>
     <script src="js/handlebars-v2.0.0.js"></script>
+    <script src="js/moment.min.js"></script>
     <script src="js/init.js"></script>
     <script src="js/schedule.js"></script>
   </body>

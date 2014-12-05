@@ -1275,13 +1275,12 @@
 .cbp_tmtimeline > li .cbp_tmicon {
 		width: 40px;
 		height: 40px;
-		font-family: 'ecoico';
 		speak: none;
 		font-style: normal;
 		font-weight: normal;
 		font-variant: normal;
 		text-transform: none;
-		font-size: 1.4em;
+		font-size: 1em;
 		line-height: 40px;
 		-webkit-font-smoothing: antialiased;
 		position: absolute;
