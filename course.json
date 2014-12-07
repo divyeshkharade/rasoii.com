@@ -4,109 +4,127 @@
       "title": "Teenage Cooking Workshop",
       "description":"Be a pro in your home kitchen with fun & easy 25+ recipes for daily cooking in 3 days. Course includes varieties of Roti, Vegetables, Rice, Pulses, Snacks & Desserts along with smart cooking tips.",
       "fees":"5000",
-      "duration_day":"3"
+      "duration_day":"3",
+      "img_url": "http://placekitten.com/g/300/233"
     },
     {
       "title": "Eggless Cakes",
       "description": "Bake delicious cakes with hassle free icing in 2 days. Course includes Vanilla sponge cake, Chocolate sponge cake, Pineapple with praline, Black forest, Dutch truffle, Brownie, Muffins.",
       "fees": "2500",
-      "duration_day": "2"
+      "duration_day": "2",
+      "img_url": "http://placekitten.com/g/300/233"
     },
     {
       "title": "Saucy Pastas & Macaroni",
       "description": "Learn different pasta & macaroni teamed up with your favorite sauces like Alfredo sauce, Arabiata sauce, Basil pesto, Spaghetti Nepolitana, Pine baked macaroni & Garlic bread.",
       "fees": "1500",
-      "duration_day": "1"
+      "duration_day": "1",
+      "img_url": "http://placekitten.com/g/300/233"
     },
     {
       "title": "Punjabi Treat",
       "description": "Give a northern tadka with restaurant style vegetables like Paneer butter masala, Palak afghan, Kadai paneer, Diwani handi, Kashmiri duma aloo, Veg korma along with Chura laccha paratha.",
       "fees": "1500",
-      "duration_day": "1"
+      "duration_day": "1",
+      "img_url": "http://placekitten.com/g/300/233"
     },
     {
       "title": "Mexican Cuisine",
       "description": "Spice up with authentic Mexican dishes. Course includes spicy corn Paneer quisiladas, Nachos with cheese sauce, Corn toastadas, Beans & cheese enchiladas, Beans tacos, Tortilla soup",
       "fees": "1500",
-      "duration_day": "1"
+      "duration_day": "1",
+      "img_url": "http://placekitten.com/g/300/233"
     },
     {
       "title": "Party Starters",
       "description": "Make bite size starters, perfect for any party. Couse includes Thread paneer, Cream corn cake with cracking spinach, herbed cheese croquettes, broccoli pepper tarts, Paneer nutty cigar, Kung pao potatoes.",
       "fees": "1500",
-      "duration_day": "1"
+      "duration_day": "1",
+      "img_url": "http://placekitten.com/g/300/233"
     },
     {
       "title": "Sizzlers",
       "description": "Learn sizzling effect sizzlers with sauces like Black pepper sauce, Teriyaki sauce, Italian sauce, Barbeque sauce with smoked veggies, cutlets and chips.",
       "fees": "1500",
-      "duration_day": "1"
+      "duration_day": "1",
+      "img_url": "http://placekitten.com/g/300/233"
     },
     {
       "title": "Italian Cuisine",
       "description": "Learn baked dishes the Italian way! Course includes Garden fresh cannelloni, Creamy tortellini, Supreme lasagna, Risotto, Herbed potato augratin, Minestrone soup.",
       "fees": "1500",
-      "duration_day": "1"
+      "duration_day": "1",
+      "img_url": "http://placekitten.com/g/300/233"
     },
     {
       "title": "Quick Desserts",
       "description": "Fun & easy 6 desserts to be done in a jiffy. Course includes Lava cake, Apple cinnamon sticks, Strawberry oreo flurry, Choco brownie delight, Chocolate mud crumble, Tiramisu.",
       "fees": "1500",
-      "duration_day": "1"
+      "duration_day": "1",
+      "img_url": "http://placekitten.com/g/300/233"
     },
     {
       "title": "Chinese Cuisine",
       "description": "Learn restaurant style full course Chinese dishes. Course includes Man chow soup, Chilli crisp potatoes, Veg burnt rice, Exotic vegetables in hunan sauce, Tai-chi paneer, Hokkien mee noodles.",
       "fees": "1500",
-      "duration_day": "1"
+      "duration_day": "1",
+      "img_url": "http://placekitten.com/g/300/233"
     },
     {
       "title": "Thai Cuisine",
       "description": "Make authentic Thai meal, rite in your kitchen. Course includes Tom yum soup, Som tom salad, Thai fried rice, Thai red curry, Pad thai noodles, Gree curry paste, Darsaan.",
       "fees": "1500",
-      "duration_day": "1"
+      "duration_day": "1",
+      "img_url": "http://placekitten.com/g/300/233"
     },
     {
       "title": "Wraps & Rolls",
       "description": "Learn fun foods like Kathi rolls, Tortilla cheese wraps, Farm house crepes, Veg Frankie, Mexican bean rolls, Paneer wraps in barbeque wraps.",
       "fees": "1500",
-      "duration_day": "1"
+      "duration_day": "1",
+      "img_url": "http://placekitten.com/g/300/233"
     },
     {
       "title": "Soup & Sandwiches",
       "description": "Learn rich, creamy exotic soups and gourmet sandwiches. Course includes Cream of tomato soup, Broccoli with almond soup, Lemon coriander soup, Grilled pizza sandwich, Mayo sandwich, Garden sandwich.",
       "fees": "1500",
-      "duration_day": "1"
+      "duration_day": "1",
+      "img_url": "http://placekitten.com/g/300/233"
     },
     {
       "title": "Toss & Grilled Starters",
       "description": "Make stir-fry and grilled starters. Course includes Paneer tikka, Seekh mutter kebab, Mexican baked potatoes, Corn paprika, Aloo achari, Stir fry vegetables in barbeque sauce.",
       "fees": "1500",
-      "duration_day": "1"
+      "duration_day": "1",
+      "img_url": "http://placekitten.com/g/350/245"
     },
     {
       "title": "One Bowl Meal",
       "description": "Learn new authentic pan Asian cuisine, each served in a bowl. Course includes Burmese Khowsuey, Chinese clay pot rice, Massaman curry with rice noodles, Coconut rice with peanut curry, Kesari Biryani.",
       "fees": "1500",
-      "duration_day": "1"
+      "duration_day": "1",
+      "img_url": "http://placekitten.com/g/310/235"
     },
     {
       "title": "Gourmet Chocolates",
       "description": "An indulgent chocoholic workshop teaching some exclusive, designer & artisan chocolates. Course includes Choco Basil Cannelloni, Choco Crème Delight, Pina Colada Cups, Saffron Pistachio Bites, Peanut Butter Barks, Almond Florentine and Cashew Thins.",
       "fees": "2500",
-      "duration_day": "1"
+      "duration_day": "1",
+      "img_url": "http://placekitten.com/g/315/238"
     },
     {
       "title": "Refreshing Salads",
       "description": "Healthy and flavorsome salads to refresh your meals. Course includes Salad Mexicana Lettucia, Strawspin Fusion Salad, Citrus Island Salad, Bean Thai Salad, Salad Italiana, Wal – Banana Fusion Salad.",
       "fees": "2500",
-      "duration_day": "1"
+      "duration_day": "1",
+      "img_url": "http://placekitten.com/g/300/233"
     },
     {
       "title": "La’Jawab Starters",
       "description": "Learn the classic & ever appetizing starters. You can’t go wrong with these ones! Course includes Chinese bhel, Veg. Crispy, Paneer Papdi, Spring Rolls, Cheese Canoli and Chilli Paneer.",
       "fees": "1500",
-      "duration_day": "1"
+      "duration_day": "1",
+      "img_url": "http://placekitten.com/g/250/200"
     }
   ]
 }
