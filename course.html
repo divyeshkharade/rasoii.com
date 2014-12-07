@@ -49,7 +49,11 @@
         <div class="4u course-item">
           <!-- Feature -->
             <section>
-              <a href="#" class="image featured"><img src="http://placekitten.com/g/368/247" alt="" /></a>
+              <a href="#" class="image featured">
+                {{#if img_url}}
+                <img src="{{img_url}}" alt="" />
+                {{/if}}
+              </a>
               <header>
                 <h3>{{title}}</h3>
               </header>
