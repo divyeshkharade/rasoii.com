@@ -1268,3 +1268,7 @@ body {
 .rwd-table th, .rwd-table td:before {
   color: #dd5;
 }
+
+#tblSchedule {
+	margin-bottom: 20px;
+}
