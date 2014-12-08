@@ -22,24 +22,24 @@
     </section>
     <div id="schedule-wrapper">
       <section class="container">
-        <ul id="ulSchedule" class="cbp_tmtimeline">
-
-        </ul>
+        <table id="tblSchedule" class="rwd-table">
+          <thead>
+          <tr>
+            <th>Title</th>
+            <th>Date</th>
+          </tr>
+        </thead>
+        <tbody>
+        </tbody>
+        </table>
       </section>
     </div>
     <script id="tmpl-schedule-item" type="text/x-handlebars-template">
       {{#each schedule}}
-      <li>
-          <time class="cbp_tmtime" datetime="{{date}}"><span>{{hbTime date}}</span> <span>{{hbDate date}}</span></time>
-          <div class="cbp_tmicon fa fa-cutlery"></div>
-          <div class="cbp_tmlabel">
-              <h3>{{title}}</h3>
-              {{#if img_url}}
-              <img class="img-responsive" src="{{img_url}}" alt="" />
-              {{/if}}
-              <p>{{description}}</p>
-          </div>
-      </li>
+      <tr>
+        <td data-th="Title">{{title}}</td>
+        <td data-th="Date"><span>{{hbDate date}}</span> at <span>{{hbTime date}}</span></td>
+      </tr>
       {{/each}}
     </script>
     <!--[if lte IE 8]><script src="css/ie/html5shiv.js"></script><![endif]-->

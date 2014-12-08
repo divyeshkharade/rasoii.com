@@ -22,7 +22,7 @@ var Schedule = function(){
       var template = Handlebars.compile(source);
       var html = template(data);
 
-      $('#ulSchedule').html(html);
+      $('#tblSchedule tbody').html(html);
     });
   };
 
