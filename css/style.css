@@ -776,8 +776,6 @@
 		cursor: default;
     background: #3F4041 url("../images/food-kitchen.jpg") center;
     background-size: cover;
-    background-position: center 0;
-		background-attachment: fixed;
 	}
 
 		#header header
@@ -1300,4 +1298,18 @@ body {
 	background: rgba(0, 0, 0, 0.7);
 	padding: 0 10px;
 	font-size: 0.7em;
+}
+
+.call-to-action {
+  text-align: center;
+  margin: 10px 0 40px 0;
+}
+
+.call-to-action ul.actions {
+  float: none;
+  padding: 0;
+}
+
+.call-to-action ul.actions li {
+  margin-right: 1em;
 }
