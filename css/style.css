@@ -776,6 +776,8 @@
 		cursor: default;
     background: #3F4041 url("../images/food-kitchen.jpg") center;
     background-size: cover;
+    background-position: center 0;
+		background-attachment: fixed;
 	}
 
 		#header header
