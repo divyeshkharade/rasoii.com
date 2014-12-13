@@ -774,6 +774,8 @@
 		margin: 0;
 		padding: 14em 0 14em 0;
 		cursor: default;
+    background: #3F4041 url("../images/food-kitchen.jpg") center;
+    background-size: cover;
 	}
 
 		#header header
