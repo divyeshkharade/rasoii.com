@@ -324,3 +324,9 @@
 	clear: both;
 	margin: 2em 0 2em 0 !important;
 }
+
+.course-img h3 {
+	left: 0;
+	right: 0;
+	bottom: 0;
+}
