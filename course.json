@@ -125,6 +125,62 @@
       "fees": "1500",
       "duration_day": "1",
       "img_url": "/images/course/Lajawab_starters_chinese_bhel.jpg"
+    },
+    {
+      "title": "Mocktails",
+      "description": "Coming Soon",
+      "fees": "-",
+      "duration_day": "-",
+      "img_url": "/images/course/Gourmet_Chocolates.jpg"
+    },
+    {
+      "title": "Cupcakes",
+      "description": "Coming Soon",
+      "fees": "-",
+      "duration_day": "-",
+      "img_url": "/images/course/Refreshing_Salads.jpg"
+    },
+    {
+      "title": "Dips & Chips",
+      "description": "Learn the classic & ever appetizing starters. You can’t go wrong with these ones! Course includes Chinese bhel, Veg. Crispy, Paneer Papdi, Spring Rolls, Cheese Canoli and Chilli Paneer.",
+      "fees": "1500",
+      "duration_day": "1",
+      "img_url": "/images/course/Lajawab_starters_chinese_bhel.jpg"
+    },
+    {
+      "title": "Tiffin Snacks",
+      "description": "Learn the classic & ever appetizing starters. You can’t go wrong with these ones! Course includes Chinese bhel, Veg. Crispy, Paneer Papdi, Spring Rolls, Cheese Canoli and Chilli Paneer.",
+      "fees": "1500",
+      "duration_day": "1",
+      "img_url": "/images/course/Lajawab_starters_chinese_bhel.jpg"
+    },
+    {
+      "title": "Royal Rajasthani Thali",
+      "description": "Coming Soon",
+      "fees": "-",
+      "duration_day": "-",
+      "img_url": "/images/course/Lajawab_starters_chinese_bhel.jpg"
+    },
+    {
+      "title": "Ethnic Sweets",
+      "description": "Coming Soon",
+      "fees": "-",
+      "duration_day": "-",
+      "img_url": "/images/course/Lajawab_starters_chinese_bhel.jpg"
+    },
+    {
+      "title": "Mughlai Vegetables",
+      "description": "Coming Soon",
+      "fees": "-",
+      "duration_day": "-",
+      "img_url": "/images/course/Lajawab_starters_chinese_bhel.jpg"
+    },
+	{
+      "title": "Only Parathas",
+      "description": "Coming Soon",
+      "fees": "-",
+      "duration_day": "-",
+      "img_url": "/images/course/Lajawab_starters_chinese_bhel.jpg"
     }
   ]
 }
