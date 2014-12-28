@@ -115,7 +115,7 @@
     {
       "title": "Refreshing Salads",
       "description": "Healthy and flavorsome salads to refresh your meals. Course includes Salad Mexicana Lettucia, Strawspin Fusion Salad, Citrus Island Salad, Bean Thai Salad, Salad Italiana, Wal – Banana Fusion Salad.",
-      "fees": "2500",
+      "fees": "2000",
       "duration_day": "1",
       "img_url": "/images/course/Refreshing_Salads.jpg"
     },
@@ -142,15 +142,15 @@
     },
     {
       "title": "Dips & Chips",
-      "description": "Learn the classic & ever appetizing starters. You can’t go wrong with these ones! Course includes Chinese bhel, Veg. Crispy, Paneer Papdi, Spring Rolls, Cheese Canoli and Chilli Paneer.",
-      "fees": "1500",
+      "description": "Munch on with classic Dips like Almond & Broccoli Dip, Yellow Pepper Corn Dip, Roasted Bell Pepper Dip, Nutty Tomato Dip, Creamy Peanut Dip, Spicy Szechwan Dip along with toasted herbed pizza sticks and more.",
+      "fees": "2000",
       "duration_day": "1",
       "img_url": "/images/course/Lajawab_starters_chinese_bhel.jpg"
     },
     {
       "title": "Tiffin Snacks",
-      "description": "Learn the classic & ever appetizing starters. You can’t go wrong with these ones! Course includes Chinese bhel, Veg. Crispy, Paneer Papdi, Spring Rolls, Cheese Canoli and Chilli Paneer.",
-      "fees": "1500",
+      "description": "Always wondering what to make for dabba? Get over this and Learn heathy and wholesome snacks like Paneer Pumpkin Rolls, Fruit Punch Sub, Cheesy Bean Buns, Wal-Nutty Pasta, Moong Masala Pancake, Risotto Croquettes  .",
+      "fees": "2000",
       "duration_day": "1",
       "img_url": "/images/course/Lajawab_starters_chinese_bhel.jpg"
     },
@@ -163,16 +163,16 @@
     },
     {
       "title": "Ethnic Sweets",
-      "description": "Coming Soon",
-      "fees": "-",
-      "duration_day": "-",
+      "description": "Go ethnic with Jalebi, Sweet bundi, Mohanthaal, Moongdal Sheera, Malpua with Rabri and Flavored Coconut Barfi ",
+      "fees": "2000",
+      "duration_day": "1",
       "img_url": "/images/course/Lajawab_starters_chinese_bhel.jpg"
     },
     {
       "title": "Mughlai Vegetables",
-      "description": "Coming Soon",
-      "fees": "-",
-      "duration_day": "-",
+      "description": "Learn aunthentic mughali gravies like Mughlai Paneer, Subze Shahi, Veg. Kolhapuri, Kashmiri Methi Chaman, Methi Malai Mutter, Subze Begum Bahar, Badshahi Malai Kofta",
+      "fees": "1500",
+      "duration_day": "1",
       "img_url": "/images/course/Lajawab_starters_chinese_bhel.jpg"
     },
 	{
