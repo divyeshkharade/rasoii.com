@@ -1318,7 +1318,6 @@ header.nav {
 	height: 3.25em;
 	left: 0;
 	line-height: 3.25em;
-	position: fixed;
 	top: 0;
 	width: 100%;
 	z-index: 10000;
@@ -1338,8 +1337,12 @@ header.nav nav > ul > li > a {
 	height: 2em;
 	line-height: 1.95em;
 	padding: 0 1em;
-	border-radius: 6px;
 	color: #fff;
+}
+
+.flexnav li a {
+	border: none;
+	cursor: pointer;
 }
 
 
@@ -1417,8 +1420,8 @@ header.nav nav > ul > li > a {
   position: relative;
   display: block;
   padding: 1em;
-  background: #a6a6a2;
-  color: #222222;
+  background: #35b88f;
+  color: #fff;
   cursor: pointer;
   border-bottom: 1px solid rgba(0, 0, 0, 0.2); }
   .menu-button.one-page {
@@ -1460,7 +1463,7 @@ header.nav nav > ul > li > a {
       float: left;
       display: block;
       overflow: visible;
-      width: 20%; }
+      width: auto; }
     .flexnav li a {
       border-bottom: none; }
     .flexnav li > ul {

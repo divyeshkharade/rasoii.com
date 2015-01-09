@@ -330,3 +330,18 @@
 	right: 0;
 	bottom: 0;
 }
+
+header.nav nav {
+	width: 100%;
+	right: 0;
+	top: 3em;
+}
+
+.flexnav li {
+	background-color: #35b88f;
+}
+
+.flexnav li a{
+	width: 100%;
+	border: none;
+}
