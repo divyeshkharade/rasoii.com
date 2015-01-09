@@ -162,6 +162,10 @@
 			//H5F
 			if(typeof(H5F) !== "undefined")
 				H5F.setup(document.getElementById("ss-form"));
+
+			$(".flexnav").flexNav({
+				'calcItemWidths': true
+			});
 	});
 
 })(jQuery);
