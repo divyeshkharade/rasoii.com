@@ -181,6 +181,20 @@
       "fees": "2000",
       "duration_day": "1",
       "img_url": "/images/course/Only_Parathas_final.jpg"
+    },
+    {
+      "title": "Gujrati Snacks",
+      "description": "Enjoy authentic gujrati style snacks like Khandvi, Haandvo, Patra, Amiri Khaman, Paneer Khaman Dhokla & Panki",
+      "fees": "2000",
+      "duration_day": "1",
+      "img_url": "http://s29.postimg.org/wv3f43cuf/Gujratisnax.jpg"
+    },
+    {
+      "title": "Winter Vegetables",
+      "description": "Enjoy special winter flavors of different states of India like Gujrati - Undhiyo, Punjabi - Sarsoo ka Saag with Makke ki roti, Bihari – Paneer wale parwal, Hyderabadi – Hare Bhare Baigan, Kanpuri – Mutter Haldi lasoon & ajwani puri",
+      "fees": "2000",
+      "duration_day": "1",
+      "img_url": "http://s17.postimg.org/wvt3lvuwv/sarsoon.jpg"
     }
   ]
 }
