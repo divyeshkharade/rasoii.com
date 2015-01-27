@@ -135,9 +135,9 @@
     },
     {
       "title": "Cupcakes",
-      "description": "Coming Soon",
-      "fees": "-",
-      "duration_day": "-",
+      "description": "Indulge in your favorite Cup Cakes with basic frosting. Course includes Vanilla Cupcake, Chocolate Cupcake, Oreo Cupcake, Red Velvet Cupcake, Carrot Cupcake with Butter cream and Cream cheese frosting",
+      "fees": "2500",
+      "duration_day": "1",
       "img_url": "/images/course/cupcakes_final.jpg"
     },
     {
@@ -156,9 +156,9 @@
     },
     {
       "title": "Royal Rajasthani Thali",
-      "description": "Coming Soon",
-      "fees": "-",
-      "duration_day": "-",
+      "description": "Relish the royal taste of authentic rajasthani cuisine with Saufiyana Churma, Stuffed Masala Bati, Panchmel Dal, Methi Malai Gatta, Ker Sangri, Makai ki khichdi with flavored curd & more",
+      "fees": "2000",
+      "duration_day": "1",
       "img_url": "/images/course/Rajasthani_thali_final.jpg"
     },
     {
@@ -177,9 +177,9 @@
     },
 	{
       "title": "Only Parathas",
-      "description": "Coming Soon",
-      "fees": "-",
-      "duration_day": "-",
+      "description": "Enjoy fushion parathas like Patiala Paratha, Kashmiri Paratha, Chatpata Chaat Paratha, Hare pyaaz ke Lifafe, Mughlai Paratha with Accompaniments like Achari Tamatar ki chutney and Khatte pyaaz ke laache",
+      "fees": "2000",
+      "duration_day": "1",
       "img_url": "/images/course/Only_Parathas_final.jpg"
     }
   ]
