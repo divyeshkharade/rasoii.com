@@ -1,100 +1,64 @@
 {
   "schedule": [
     {
-      "title": "Teenage Cooking Workshop (3 days)",
-      "date": "2015-01-28 14:00:00"
+      "title": "Royal Rajasthani Thali",
+      "date": "2015-04-02 14:00:00"
     },
     {
-      "title": "Winter Vegetables (NEW)",
-      "date": "2015-02-03 14:00:00"
-    },
-    {
-      "title": "Oven Fresh Parathas (NEW)",
-      "date": "2015-02-05 14:00:00"
-    },
-    {
-      "title": "Tiffin Snacks (NEW)",
-      "date": "2015-02-07 14:00:00"
-    },
-    {
-      "title": "Gourmet Chocolates",
-      "date": "2015-02-10 14:00:00"
-    },
-    {
-      "title": "Quick Desserts",
-      "date": "2015-02-12 14:00:00"
-    },
-    {
-      "title": "Cup Cakes (NEW)",
-      "date": "2015-02-13 14:00:00"
+      "title": "Toss & Grilled Starters",
+      "date": "2015-04-04 14:00:00"
     },
     {
       "title": "Sizzlers",
-      "date": "2015-02-16 14:00:00"
-    },
-    {
-      "title": "Eggless Cakes (2 day course)",
-      "date": "2015-02-20 14:00:00"
-    },
-    {
-      "title": "Party Starters",
-      "date": "2015-02-24 14:00:00"
-    },
-    {
-      "title": "Chinese Cuisine",
-      "date": "2015-02-26 14:00:00"
-    },
-    {
-      "title": "Refreshing Salads (NEW)",
-      "date": "2015-02-28 14:00:00"
-    },
-    {
-      "title": "Toss & Grill Starters",
-      "date": "2015-03-02 14:00:00"
+      "date": "2015-04-07 14:00:00"
     },
     {
       "title": "Dips & Chips (NEW)",
-      "date": "2015-03-03 14:00:00"
+      "date": "2015-04-09 14:00:00"
     },
     {
-      "title": "Thai Cuisine",
-      "date": "2015-03-04 14:00:00"
+      "title": "Oven Fresh Parathas (NEW)",
+      "date": "2015-04-10 14:00:00"
+    },
+    {
+      "title": "Quick Desserts",
+      "date": "2015-04-11 14:00:00"
+    },
+    {
+      "title": "Basic Eggless Cakes with Icing (2 days)",
+      "date": "2015-04-14 14:00:00"
+    },
+    {
+      "title": "Summer Coolers (NEW)",
+      "date": "2015-04-16 14:00:00"
+    },
+    {
+      "title": "Wholesome Snacks (NEW)",
+      "date": "2015-04-18 14:00:00"
+    },
+    {
+      "title": "Cupcakes with frosting (eggless)",
+      "date": "2015-04-21 14:00:00"
     },
     {
       "title": "Punjabi Treat",
-      "date": "2015-03-12 14:00:00"
+      "date": "2015-04-23 14:00:00"
     },
     {
       "title": "Wraps & Rolls",
-      "date": "2015-03-14 14:00:00"
+      "date": "2015-04-25 14:00:00"
     },
     {
-      "title": "One Bowl Meal",
-      "date": "2015-03-17 14:00:00"
+      "title": "Teenage Cooking Workshop (3 Day course)",
+      "date": "2015-04-28 14:00:00"
     },
     {
-      "title": "La'Jawab Starters",
-      "date": "2015-03-19 14:00:00"
+      "title": "Teenage Cooking Workshop (3 Day course)",
+      "date": "2015-04-29 14:00:00"
     },
     {
-      "title": "Mexican Cuisine",
-      "date": "2015-03-21 14:00:00"
-    },
-    {
-      "title": "Mughlai Vegetables",
-      "date": "2015-03-24 14:00:00"
-    },
-    {
-      "title": "Soup & Gourmet Sandwiches",
-      "date": "2015-03-26 14:00:00"
-    },
-    {
-      "title": "Royal Rajasthani Thali (NEW)",
-      "date": "2015-03-28 14:00:00"
-    },
-    {
-      "title": "Gujrati Snacks",
-      "date": "2015-03-31 14:00:00"
+      "title": "Teenage Cooking Workshop (3 Day course)",
+      "date": "2015-04-30 14:00:00"
     }
    ]
 }
