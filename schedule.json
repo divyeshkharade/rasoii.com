@@ -1,64 +1,52 @@
 {
   "schedule": [
     {
-      "title": "Royal Rajasthani Thali",
-      "date": "2015-04-02 14:00:00"
+      "title": "Teenage Cooking Workshop Day1",
+      "date": "2016-04-14 14:00:00"
     },
     {
-      "title": "Toss & Grilled Starters",
-      "date": "2015-04-04 14:00:00"
+      "title": "Teenage Cooking Workshop Day2",
+      "date": "2016-04-15 14:00:00"
     },
     {
-      "title": "Sizzlers",
-      "date": "2015-04-07 14:00:00"
+      "title": "Teenage Cooking Workshop Day3",
+      "date": "2016-04-16 14:00:00"
     },
     {
-      "title": "Dips & Chips (NEW)",
-      "date": "2015-04-09 14:00:00"
+      "title": "Bakery Workshop Day1",
+      "date": "2016-04-20 14:00:00"
     },
     {
-      "title": "Oven Fresh Parathas (NEW)",
-      "date": "2015-04-10 14:00:00"
+      "title": "Bakery Workshop Day2",
+      "date": "2016-04-21 14:00:00"
     },
     {
-      "title": "Quick Desserts",
-      "date": "2015-04-11 14:00:00"
-    },
-    {
-      "title": "Basic Eggless Cakes with Icing (2 days)",
-      "date": "2015-04-14 14:00:00"
-    },
-    {
-      "title": "Summer Coolers (NEW)",
-      "date": "2015-04-16 14:00:00"
-    },
-    {
-      "title": "Wholesome Snacks (NEW)",
-      "date": "2015-04-18 14:00:00"
-    },
-    {
-      "title": "Cupcakes with frosting (eggless)",
-      "date": "2015-04-21 14:00:00"
+      "title": "Bakery Workshop Day3",
+      "date": "2016-04-22 14:00:00"
     },
     {
       "title": "Punjabi Treat",
-      "date": "2015-04-23 14:00:00"
+      "date": "2016-04-27 14:00:00"
+    },
+    {
+      "title": "Quick Desserts",
+      "date": "2016-04-28 14:00:00"
+    },
+    {
+      "title": "Dips & Chips",
+      "date": "2016-04-29 14:00:00"
+    },
+    {
+      "title": "Toss & Grilled Starters",
+      "date": "2016-05-04 14:00:00"
+    },
+    {
+      "title": "Sizzlers",
+      "date": "2016-05-05 14:00:00"
     },
     {
       "title": "Wraps & Rolls",
-      "date": "2015-04-25 14:00:00"
-    },
-    {
-      "title": "Teenage Cooking Workshop (3 Day course)",
-      "date": "2015-04-28 14:00:00"
-    },
-    {
-      "title": "Teenage Cooking Workshop (3 Day course)",
-      "date": "2015-04-29 14:00:00"
-    },
-    {
-      "title": "Teenage Cooking Workshop (3 Day course)",
-      "date": "2015-04-30 14:00:00"
+      "date": "2016-05-06 14:00:00"
     }
    ]
 }
