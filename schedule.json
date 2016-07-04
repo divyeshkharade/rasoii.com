@@ -1,52 +1,44 @@
 {
   "schedule": [
     {
-      "title": "Teenage Cooking Workshop Day1",
-      "date": "2016-04-14 14:00:00"
-    },
-    {
-      "title": "Teenage Cooking Workshop Day2",
-      "date": "2016-04-15 14:00:00"
-    },
-    {
-      "title": "Teenage Cooking Workshop Day3",
-      "date": "2016-04-16 14:00:00"
-    },
-    {
-      "title": "Bakery Workshop Day1",
-      "date": "2016-04-20 14:00:00"
-    },
-    {
-      "title": "Bakery Workshop Day2",
-      "date": "2016-04-21 14:00:00"
-    },
-    {
-      "title": "Bakery Workshop Day3",
-      "date": "2016-04-22 14:00:00"
-    },
-    {
-      "title": "Punjabi Treat",
-      "date": "2016-04-27 14:00:00"
-    },
-    {
-      "title": "Quick Desserts",
-      "date": "2016-04-28 14:00:00"
-    },
-    {
-      "title": "Dips & Chips",
-      "date": "2016-04-29 14:00:00"
-    },
-    {
-      "title": "Toss & Grilled Starters",
-      "date": "2016-05-04 14:00:00"
+      "title": "Thai Cuisine",
+      "date": "2016-07-06 14:00:00"
     },
     {
       "title": "Sizzlers",
-      "date": "2016-05-05 14:00:00"
+      "date": "2016-07-07 14:00:00"
     },
     {
-      "title": "Wraps & Rolls",
-      "date": "2016-05-06 14:00:00"
+      "title": "Chinese Cuisine",
+      "date": "2016-07-13 14:00:00"
+    },
+    {
+      "title": "Mexican Cuisine",
+      "date": "2016-07-14 14:00:00"
+    },
+    {
+      "title": "Basic Cookery Workshop Day1",
+      "date": "2016-07-20 14:00:00"
+    },
+    {
+      "title": "Basic Cookery Workshop Day2",
+      "date": "2016-07-21 14:00:00"
+    },
+    {
+      "title": "Basic Cookery Workshop Day3",
+      "date": "2016-07-22 14:00:00"
+    },
+    {
+      "title": "Punjabi Treat",
+      "date": "2016-07-26 14:00:00"
+    },
+    {
+      "title": "Toss & Grill Starters",
+      "date": "2016-07-28 14:00:00"
+    },
+    {
+      "title": "One Bowl Meal",
+      "date": "2016-07-29 14:00:00"
     }
    ]
 }
