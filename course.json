@@ -1,17 +1,17 @@
 {
   "courses":[
     {
-      "title": "Teenage Cooking Workshop",
+      "title": "Basic Cookery Workshop",
       "description":"Be a pro in your home kitchen with fun & easy 25+ recipes for daily cooking in 3 days. Course includes varieties of Roti, Vegetables, Rice, Pulses, Snacks & Desserts along with smart cooking tips.",
       "fees":"5000",
       "duration_day":"3",
       "img_url": "/images/course/Teenage_Cooking_Workshop_final_roti_sabzi.jpg"
     },
     {
-      "title": "Eggless Cakes",
-      "description": "Bake delicious cakes with hassle free icing in 2 days. Course includes Vanilla sponge cake, Chocolate sponge cake, Pineapple with praline, Black forest, Dutch truffle, Brownie, Muffins.",
-      "fees": "2500",
-      "duration_day": "2",
+      "title": "Basic Bakery Workshop",
+      "description": "Bake delicious cakes, cupcakes and tea-time cakes with hassle free icing & frosting in 3 days. Course includes Vanilla sponge cake, Chocolate sponge cake, Pineapple with praline, Black forest, Dutch truffle, Brownie, Red velvet cupcakes, Choco Oreo cupcakes, Choco fudge frosting, Cream cheese frosting, Butter cream frosting, Carrot loaf cake, Banana loaf cake, Homemade prlaine.",
+      "fees": "5000",
+      "duration_day": "3",
       "img_url": "/images/course/cakes.png"
     },
     {
