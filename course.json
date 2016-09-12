@@ -15,8 +15,8 @@
       "img_url": "/images/course/cakes.png"
     },
     {
-      "title": "Saucy Pastas & Macaroni",
-      "description": "Learn different pasta & macaroni teamed up with your favorite sauces like Alfredo sauce, Arabiata sauce, Basil pesto, Spaghetti Nepolitana, Pine baked macaroni & Garlic bread.",
+      "title": "Hi Tea Snacks",
+      "description": "Learn best of our wholesome snacks recipes from the past! Manglori Dahi misal, Bhari Bhari Tikki, Mutter gahar chops, Masaledaar Pav, Multani Chaat & Raj Kachori chaat.",
       "fees": "2000",
       "duration_day": "1",
       "img_url": "/images/course/Saucy_Pasta_Macaroni.jpg"
@@ -127,16 +127,16 @@
       "img_url": "/images/course/Lajawab_starters4_chinese_bhel.jpg"
     },
     {
-      "title": "Mocktails",
-      "description": "Coming Soon",
-      "fees": "-",
-      "duration_day": "-",
+      "title": "Pub Style Mocktails",
+      "description": "Learn exquistite pub style mocktails to sprice up you next house party! Zesty Mojito with lemon grass, Virgin sangria, Mocha on the Rocks, Virgin Guava Mary, Pineapple Basil Breeze, Citrus Melody",
+      "fees": "2000",
+      "duration_day": "1",
       "img_url": "/images/course/Mocktails_final.jpg"
     },
     {
-      "title": "Cupcakes",
-      "description": "Indulge in your favorite Cup Cakes with basic frosting. Course includes Vanilla Cupcake, Chocolate Cupcake, Oreo Cupcake, Red Velvet Cupcake, Carrot Cupcake with Butter cream and Cream cheese frosting",
-      "fees": "2500",
+      "title": "All Baked",
+      "description": "Learn delicious crunchy finger foods without the deep frying! Baked Chakri Sticks, Baked Mathri, Baked Samosa, Baked Paneer wali Kachori, Baked Ragda Pattice, Baked Potato Toast",
+      "fees": "2000",
       "duration_day": "1",
       "img_url": "/images/course/cupcakes_final.jpg"
     },
