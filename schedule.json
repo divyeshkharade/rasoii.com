@@ -1,60 +1,60 @@
 {
   "schedule":[
     {
-      "title": "Chinese Cuisine",
-      "date": "2016-09-21 14:00:00"
-    },
-    {
-      "title": "Wraps & Rolls",
-      "date": "2016-09-22 14:00:00"
-    },
-    {
-      "title": "Toss & Grill Starters",
-      "date": "2016-09-23 14:00:00"
-    },
-    {
-      "title": "Punjabi Treat",
-      "date": "2016-09-27 14:00:00"
-    },
-    {
-      "title": "Pub Style Mocktails (NEW)",
-      "date": "2016-09-28 14:00:00"
-    },
-    {
-      "title": "Dips & Chips",
-      "date": "2016-09-30 14:00:00"
-    },
-    {
-      "title": "Hi Tea Snacks (NEW)",
-      "date": "2016-10-04 14:00:00"
-    },
-    {
-      "title": "Mexican Cuisine",
-      "date": "2016-10-05 14:00:00"
-    },
-    {
-      "title": "Party Starters",
-      "date": "2016-10-07 14:00:00"
-    },
-    {
-      "title": "Quick Desserts",
-      "date": "2016-10-08 14:00:00"
+      "title": "Oven Fresh Parathas",
+      "date": "2017-03-07 14:00:00"
     },
     {
       "title": "Sizzlers",
-      "date": "2016-10-10 14:00:00"
+      "date": "2017-03-09 14:00:00"
     },
     {
-      "title": "Fusion Foods (NEW)",
-      "date": "2016-10-13 14:00:00"
+      "title": "Punjabi Treat",
+      "date": "2017-03-14 14:00:00"
     },
     {
-      "title": "Gourmet Chocolate",
-      "date": "2016-10-14 14:00:00"
+      "title": "Refreshing Salads",
+      "date": "2017-03-16 14:00:00"
     },
     {
-      "title": "All Baked Snacks (NEW)",
-      "date": "2016-10-15 14:00:00"
+      "title": "Dips & Chips",
+      "date": "2017-03-17 14:00:00"
+    },
+    {
+      "title": "Pub Style Mocktails",
+      "date": "2017-03-21 14:00:00"
+    },
+    {
+      "title": "Chinese Cuisine",
+      "date": "2017-03-23 14:00:00"
+    },
+    {
+      "title": "Toss & Grill Starters",
+      "date": "2017-03-24 14:00:00"
+    },
+    {
+      "title": "Lebanese Cuisine (NEW)",
+      "date": "2017-03-29 14:00:00"
+    },
+    {
+      "title": "Wraps & Rolls",
+      "date": "2017-03-30 14:00:00"
+    },
+    {
+      "title": "Mexican Cuisine",
+      "date": "2017-03-31 14:00:00"
+    },
+    {
+      "title": "Basic Cookery Workshop Day1",
+      "date": "2017-04-03 14:00:00"
+    },
+    {
+      "title": "Basic Cookery Workshop Day2",
+      "date": "2017-04-04 14:00:00"
+    },
+    {
+      "title": "Basic Cookery Workshop Day3",
+      "date": "2017-04-05 14:00:00"
     }
    ]
 }
