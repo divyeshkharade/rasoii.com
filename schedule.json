@@ -1,64 +1,64 @@
 {
   "schedule":[
     {
-      "title": "Oven Fresh Parathas",
-      "date": "2017-03-07 14:00:00"
-    },
-    {
-      "title": "Sizzlers",
-      "date": "2017-03-09 14:00:00"
-    },
-    {
-      "title": "Quick Desserts",
-      "date": "2017-03-10 14:00:00"
-    },
-    {
       "title": "Punjabi Treat",
-      "date": "2017-03-14 14:00:00"
+      "date": "2018-03-05 14:00:00"
     },
     {
       "title": "Refreshing Salads",
-      "date": "2017-03-16 14:00:00"
-    },
-    {
-      "title": "Dips & Chips",
-      "date": "2017-03-17 14:00:00"
-    },
-    {
-      "title": "Pub Style Mocktails",
-      "date": "2017-03-21 14:00:00"
-    },
-    {
-      "title": "Chinese Cuisine",
-      "date": "2017-03-23 14:00:00"
-    },
-    {
-      "title": "Toss & Grill Starters",
-      "date": "2017-03-24 14:00:00"
-    },
-    {
-      "title": "Lebanese Cuisine (NEW)",
-      "date": "2017-03-29 14:00:00"
+      "date": "2018-03-06 14:00:00"
     },
     {
       "title": "Wraps & Rolls",
-      "date": "2017-03-30 14:00:00"
+      "date": "2018-03-08 14:00:00"
     },
     {
-      "title": "Mexican Cuisine",
-      "date": "2017-03-31 14:00:00"
+      "title": "Toss & Grill Starters",
+      "date": "2018-03-12 14:00:00"
     },
     {
-      "title": "Basic Cookery Workshop Day1",
-      "date": "2017-04-03 14:00:00"
+      "title": "Healthy Soups",
+      "date": "2018-03-13 14:00:00"
     },
     {
-      "title": "Basic Cookery Workshop Day2",
-      "date": "2017-04-04 14:00:00"
+      "title": "Basic Cooking Workshop Day 1",
+      "date": "2018-03-15 14:00:00"
     },
     {
-      "title": "Basic Cookery Workshop Day3",
-      "date": "2017-04-05 14:00:00"
+      "title": "Basic Cooking Workshop Day 2",
+      "date": "2018-03-16 14:00:00"
+    },
+    {
+      "title": "Basic Cooking Workshop Day 3",
+      "date": "2018-03-17 14:00:00"
+    },
+    {
+      "title": "Roz ki Tarkariyan Day 1 (Everyday Sabzi's) NEW",
+      "date": "2018-03-19 14:00:00"
+    },
+    {
+      "title": "Roz ki Tarkariyan Day 2 (Everyday Sabzi's) NEW",
+      "date": "2018-03-20 14:00:00"
+    },
+    {
+      "title": "Chinese Cuisine",
+      "date": "2018-03-22 14:00:00"
+    },
+    {
+      "title": "Sizzlers",
+      "date": "2018-03-23 14:00:00"
+    },
+    {
+      "title": "Lebanese Cuisine (NEW)",
+      "date": "2018-03-27 14:00:00"
+    },
+    {
+      "title": "Thai Cuisine",
+      "date": "2018-03-28 14:00:00"
+    },
+    {
+      "title": "Bihari Cuisine (NEW)",
+      "date": "2018-03-31 14:00:00"
     }
    ]
 }
