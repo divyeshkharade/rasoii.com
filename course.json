@@ -5,7 +5,7 @@
       "description":"An ideal workshop to know the ABC's of cooking. A must for Students goin abroad, Newly weds, brides to be and any one who wants to zest up their daily cooking. Be a pro in your home kitchen with fun, easy and hassle free 25+ recipes for daily cooking in 3 days. Course includes varieties of Roti, Vegetables, Rice, Pulses, Snacks & Desserts along with smart cooking tips.",
       "fees":"5000",
       "duration_day":"3",
-      "img_url": "/images/course/Teenage_Cooking_Workshop_final_roti_sabzi.jpg"
+      "img_url": "/images/index/basic cookery workshop1.jpg"
     },
     {
       "title": "Basic Bakery Workshop",
@@ -15,6 +15,20 @@
       "img_url": "/images/course/cakes.png"
     },
     {
+     "title": "Roz Ki Tarkariyan (NEW)",
+      "description": "Give your regular veggies a twist along with kitchen secrets to make everyday food healthy. Veggies like French beans, Bhindi, Aloo, Methi, Baigan, Guvar, Tindli, Karela, Dudhi, Cabbage, Cauliflower and many more",
+      "fees": "4000",
+      "duration_day": "2",
+      "img_url": "/images/course/Fresh-Vegetables-Basket-HD-Wallpaper-04534.jpg"
+     },
+      {
+      "title": "Healthy Soups (NEW)",
+      "description": "Detox yourself with these quick, fuss free but Healthy soups like Veg. Laksa Soup, Nutty Carrot Soup, Roasted Pumpkin Soup, Leafy Asparagus Soup, Broccolli Almond Soup, Rustic Tomato Soup",
+      "fees": "2000",
+      "duration_day": "1",
+      "img_url": "/images/course/healthy soups final.jpg"
+     },
+      {
       "title": "Fusion Foods (NEW)",
       "description": "This festive season serve common food in an UnCommon Way!! Learn the art of serving simple, common, ready to eat foods in a new fantastic way and delight your guests with your creative personal touch to regular takeaway festive foods like pav bhaji, jalebi, rasagullas, khari, ice creams, kachori, leftover assorted mithai, idlis & more. ",
       "fees": "2000",
@@ -27,13 +41,6 @@
       "fees": "2000",
       "duration_day": "1",
       "img_url": "/images/course/pub_mocktails.jpg"
-    },
-    {
-      "title": "Roz Ki Tarkariyan (NEW)",
-      "description": "Give your regular veggies a twist along with kitchen secrets to make everyday food healthy. Veggies like French beans, Bhindi, Aloo, Methi, Baigan, Guvar, Tindli, Karela, Dudhi, Cabbage, Cauliflower and many more",
-      "fees": "4000",
-      "duration_day": "2",
-      "img_url": "/images/course/Fresh-Vegetables-Basket-HD-Wallpaper-04534.jpg"
     },
     {
       "title": "Lebanese Cuisine (NEW)",
