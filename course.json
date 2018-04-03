@@ -29,7 +29,7 @@
       "img_url": "/images/course/healthy soups final.jpg"
      },
       {
-      "title": "Refreshing Salads",
+      "title": "Refreshing Salads (NEW)",
       "description": "Healthy and flavorsome salads to refresh your meals. Course includes Salad Mexicana Lettucia, Strawspin Fusion Salad, Citrus Island Salad, Bean Thai Salad, Salad Italiana, Wal – Banana Fusion Salad.",
       "fees": "2000",
       "duration_day": "1",
@@ -42,19 +42,54 @@
       "duration_day": "1",
       "img_url": "/images/course/falafel_wrap_thecozyapron_02-13-17_1.jpg"
      },
-      {
-      "title": "Fusion Foods (NEW)",
-      "description": "This festive season serve common food in an UnCommon Way!! Learn the art of serving simple, common, ready to eat foods in a new fantastic way and delight your guests with your creative personal touch to regular takeaway festive foods like pav bhaji, jalebi, rasagullas, khari, ice creams, kachori, leftover assorted mithai, idlis & more. ",
-      "fees": "2000",
-      "duration_day": "1",
-      "img_url": "/images/course/fusion_foodfinal.jpg"
-    },
-    {
+     {
       "title": "Pub Style Mocktails (NEW)",
       "description": "Learn exquistite pub style mocktails to sprice up you next house party! Zesty Mojito with lemon grass, Virgin sangria, Mocha on the Rocks, Virgin Guava Mary, Pineapple Basil Breeze, Citrus Melody",
       "fees": "2000",
       "duration_day": "1",
       "img_url": "/images/course/pub_mocktails.jpg"
+    },
+    {
+      "title": "One Bowl Meal",
+      "description": "Learn new authentic pan Asian cuisine, each served in a bowl. Course includes Burmese Khowsuey, Chinese clay pot rice, Massaman curry with rice noodles, Coconut rice with peanut curry, Kesari Biryani.",
+      "fees": "2000",
+      "duration_day": "1",
+      "img_url": "/images/course/One_Bowl_Meal_final.jpg"
+    },
+    {
+      "title": "Dips & Chips",
+      "description": "Munch on with classic Dips like Almond & Broccoli Dip, Yellow Pepper Corn Dip, Roasted Bell Pepper Dip, Nutty Tomato Dip, Creamy Peanut Dip, Spicy Szechwan Dip along with toasted herbed pizza sticks and more.",
+      "fees": "2000",
+      "duration_day": "1",
+      "img_url": "/images/course/Dips_Chips.jpg"
+    },
+    {
+      "title": "Quick Desserts",
+      "description": "Fun & easy 6 desserts to be done in a jiffy. Course includes Lava cake, Apple cinnamon sticks, Strawberry oreo flurry, Choco brownie delight, Chocolate mud crumble, Tiramisu.",
+      "fees": "2000",
+      "duration_day": "1",
+      "img_url": "/images/course/Quick_desserts4.jpg"
+    },
+    {
+      "title": "Wraps & Rolls",
+      "description": "Learn fun foods like Kathi rolls, Tortilla cheese wraps, Farm house crepes, Veg Frankie, Mexican bean rolls, Paneer wraps in barbeque wraps.",
+      "fees": "2000",
+      "duration_day": "1",
+      "img_url": "/images/course/wraps_rolls2.jpg"
+    },
+    {
+      "title": "Toss & Grilled Starters",
+      "description": "Make stir-fry and grilled starters. Course includes Paneer tikka, Seekh mutter kebab, Mexican baked potatoes, Corn paprika, Aloo achari, Stir fry vegetables in barbeque sauce.",
+      "fees": "2000",
+      "duration_day": "1",
+      "img_url": "/images/course/Toss_Grill_starters2_paneer_tikka.jpg"
+    },
+    {
+      "title": "Guilt Free Parathas",
+      "description": "Enjoy wholesome & healthy parathas like Patiala Paratha, Kashmiri Paratha, Chatpata Chaat Paratha, Hare pyaaz ke Lifafe, Mughlai Paratha with Accompaniments like Achari Tamatar ki chutney and Khatte pyaaz ke laache",
+      "fees": "2000",
+      "duration_day": "1",
+      "img_url": "/images/course/Only_Parathas_final.jpg"
     },
     {
       "title": "Punjabi Treat",
@@ -64,6 +99,13 @@
       "img_url": "/images/course/punjabi_treat_final_dum_aloo.jpg"
     },
     {
+      "title": "Royal Rajasthani Thali",
+      "description": "Relish the royal taste of authentic rajasthani cuisine with Saufiyana Churma, Stuffed Masala Bati, Panchmel Dal, Methi Malai Gatta, Ker Sangri, Makai ki khichdi with flavored curd & more",
+      "fees": "2000",
+      "duration_day": "1",
+      "img_url": "/images/course/Rajasthani_thali_final.jpg"
+    },
+    {
       "title": "Mexican Cuisine",
       "description": "Spice up with authentic Mexican dishes. Course includes spicy corn Paneer quisiladas, Nachos with cheese sauce, Corn toastadas, Beans & cheese enchiladas, Beans tacos, Tortilla soup",
       "fees": "2000",
@@ -71,32 +113,11 @@
       "img_url": "/images/course/Mexican_cuisine1_final_tacos.jpg"
     },
     {
-      "title": "Party Starters",
-      "description": "Make bite size starters, perfect for any party. Couse includes Thread paneer, Cream corn cake with cracking spinach, herbed cheese croquettes, broccoli pepper tarts, Paneer nutty cigar, Kung pao potatoes.",
-      "fees": "2000",
-      "duration_day": "1",
-      "img_url": "/images/course/Party_starters1_paneer_nutty_cigars.jpg"
-    },
-    {
-      "title": "Sizzlers",
-      "description": "Learn sizzling effect sizzlers with sauces like Black pepper sauce, Teriyaki sauce, Italian sauce, Barbeque sauce with smoked veggies, cutlets and chips.",
-      "fees": "2000",
-      "duration_day": "1",
-      "img_url": "/images/course/sizzlers2.jpg"
-    },
-    {
       "title": "Italian Cuisine",
       "description": "Learn baked dishes the Italian way! Course includes Garden fresh cannelloni, Creamy tortellini, Supreme lasagna, Risotto, Herbed potato augratin, Minestrone soup.",
       "fees": "2000",
       "duration_day": "1",
       "img_url": "/images/course/Italian_cannelloni.jpg"
-    },
-    {
-      "title": "Quick Desserts",
-      "description": "Fun & easy 6 desserts to be done in a jiffy. Course includes Lava cake, Apple cinnamon sticks, Strawberry oreo flurry, Choco brownie delight, Chocolate mud crumble, Tiramisu.",
-      "fees": "2000",
-      "duration_day": "1",
-      "img_url": "/images/course/Quick_desserts4.jpg"
     },
     {
       "title": "Chinese Cuisine",
@@ -113,32 +134,11 @@
       "img_url": "/images/course/Thai_Cuisine_final.jpg"
     },
     {
-      "title": "Wraps & Rolls",
-      "description": "Learn fun foods like Kathi rolls, Tortilla cheese wraps, Farm house crepes, Veg Frankie, Mexican bean rolls, Paneer wraps in barbeque wraps.",
+      "title": "Sizzlers",
+      "description": "Learn sizzling effect sizzlers with sauces like Black pepper sauce, Teriyaki sauce, Italian sauce, Barbeque sauce with smoked veggies, cutlets and chips.",
       "fees": "2000",
       "duration_day": "1",
-      "img_url": "/images/course/wraps_rolls2.jpg"
-    },
-    {
-      "title": "Soup & Sandwiches",
-      "description": "Learn rich, creamy exotic soups and gourmet sandwiches. Course includes Cream of tomato soup, Broccoli with almond soup, Lemon coriander soup, Grilled pizza sandwich, Mayo sandwich, Garden sandwich.",
-      "fees": "2000",
-      "duration_day": "1",
-      "img_url": "/images/course/Soup_Sandwiches1_final.jpg"
-    },
-    {
-      "title": "Toss & Grilled Starters",
-      "description": "Make stir-fry and grilled starters. Course includes Paneer tikka, Seekh mutter kebab, Mexican baked potatoes, Corn paprika, Aloo achari, Stir fry vegetables in barbeque sauce.",
-      "fees": "2000",
-      "duration_day": "1",
-      "img_url": "/images/course/Toss_Grill_starters2_paneer_tikka.jpg"
-    },
-    {
-      "title": "One Bowl Meal",
-      "description": "Learn new authentic pan Asian cuisine, each served in a bowl. Course includes Burmese Khowsuey, Chinese clay pot rice, Massaman curry with rice noodles, Coconut rice with peanut curry, Kesari Biryani.",
-      "fees": "2000",
-      "duration_day": "1",
-      "img_url": "/images/course/One_Bowl_Meal_final.jpg"
+      "img_url": "/images/course/sizzlers2.jpg"
     },
     {
       "title": "Gourmet Chocolates",
@@ -148,32 +148,18 @@
       "img_url": "/images/course/Gourmet_Chocolates_final.jpg"
     },
     {
+      "title": "Party Starters",
+      "description": "Make bite size starters, perfect for any party. Couse includes Thread paneer, Cream corn cake with cracking spinach, herbed cheese croquettes, broccoli pepper tarts, Paneer nutty cigar, Kung pao potatoes.",
+      "fees": "2000",
+      "duration_day": "1",
+      "img_url": "/images/course/Party_starters1_paneer_nutty_cigars.jpg"
+    },
+    {
       "title": "La’Jawab Starters",
       "description": "Learn the classic & ever appetizing starters. You can’t go wrong with these ones! Course includes Chinese bhel, Veg. Crispy, Paneer Papdi, Spring Rolls, Cheese Canoli and Chilli Paneer.",
       "fees": "2000",
       "duration_day": "1",
       "img_url": "/images/course/Lajawab_starters4_chinese_bhel.jpg"
-    },
-    {
-      "title": "Dips & Chips",
-      "description": "Munch on with classic Dips like Almond & Broccoli Dip, Yellow Pepper Corn Dip, Roasted Bell Pepper Dip, Nutty Tomato Dip, Creamy Peanut Dip, Spicy Szechwan Dip along with toasted herbed pizza sticks and more.",
-      "fees": "2000",
-      "duration_day": "1",
-      "img_url": "/images/course/Dips_Chips.jpg"
-    },
-    {
-      "title": "Tiffin Snacks",
-      "description": "Always wondering what to make for dabba? Get over this and Learn heathy and wholesome snacks like Paneer Pumpkin Rolls, Fruit Punch Sub, Cheesy Bean Buns, Wal-Nutty Pasta, Moong Masala Pancake, Risotto Croquettes  .",
-      "fees": "2000",
-      "duration_day": "1",
-      "img_url": "/images/course/Tiffin_Snacks_final.jpg"
-    },
-    {
-      "title": "Royal Rajasthani Thali",
-      "description": "Relish the royal taste of authentic rajasthani cuisine with Saufiyana Churma, Stuffed Masala Bati, Panchmel Dal, Methi Malai Gatta, Ker Sangri, Makai ki khichdi with flavored curd & more",
-      "fees": "2000",
-      "duration_day": "1",
-      "img_url": "/images/course/Rajasthani_thali_final.jpg"
     },
     {
       "title": "Ethnic Sweets",
@@ -188,13 +174,6 @@
       "fees": "2000",
       "duration_day": "1",
       "img_url": "/images/course/Mughlai_Vegetables_final.jpg"
-    },
-	{
-      "title": "Guilt Free Parathas",
-      "description": "Enjoy wholesome & healthy parathas like Patiala Paratha, Kashmiri Paratha, Chatpata Chaat Paratha, Hare pyaaz ke Lifafe, Mughlai Paratha with Accompaniments like Achari Tamatar ki chutney and Khatte pyaaz ke laache",
-      "fees": "2000",
-      "duration_day": "1",
-      "img_url": "/images/course/Only_Parathas_final.jpg"
     },
     {
       "title": "Gujrati Snacks",
