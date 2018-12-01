@@ -1,60 +1,56 @@
 {
   "schedule":[
     {
-      "title": "Roz ki Tarkariyan Day 1 (NEW)",
-      "date": "2018-04-06 14:00:00"
+      "title": "Eggless Cakes Day 1",
+      "date": "2018-12-06 14:00:00"
     },
     {
-      "title": "Roz ki Tarkariyan Day 2 (NEW)",
-      "date": "2018-04-07 14:00:00"
+      "title": "Eggless Cakes Day 2",
+      "date": "2018-12-07 14:00:00"
     },
     {
-      "title": "Basic Cookery Workshop Day 1",
-      "date": "2018-04-09 14:00:00"
-    },
-    {
-      "title": "Basic Cookery Workshop Day 2",
-      "date": "2018-04-10 14:00:00"
-    },
-    {
-      "title": "Basic Cookery Workshop Day 3",
-      "date": "2018-04-11 14:00:00"
-    },
-    {
-      "title": "Wrap & Rolls",
-      "date": "2018-04-13 14:00:00"
-    },
-    {
-      "title": "Guilt Free Parathas",
-      "date": "2018-04-17 14:00:00"
+      "title": "Healthy & Energectic Soups",
+      "date": "2018-12-10 14:00:00"
     },
     {
       "title": "Refreshing Salads",
-      "date": "2018-04-19 14:00:00"
+      "date": "2018-12-11 14:00:00"
     },
     {
-      "title": "Healthy Soups",
-      "date": "2018-04-21 14:00:00"
+      "title": "Oven Fresh Parathas",
+      "date": "2018-12-13 14:00:00"
     },
     {
-      "title": "Roz ke Dal Chawal Day 1 (NEW)",
-      "date": "2018-04-24 14:00:00"
+      "title": "Toss & Grill Starters",
+      "date": "2018-12-14 14:00:00"
     },
     {
-      "title": "Roz ke Dal Chawal Day 2 (NEW)",
-      "date": "2018-04-25 14:00:00"
+      "title": "Sizzlers",
+      "date": "2018-12-15 14:00:00"
+    },
+    {
+      "title": "Wraps & Rolls",
+      "date": "2018-12-18 14:00:00"
     },
     {
       "title": "One Bowl Meal",
-      "date": "2018-04-27 14:00:00"
+      "date": "2018-12-19 14:00:00"
     },
     {
-      "title": "Quick Desserts",
-      "date": "2018-04-28 14:00:00"
+      "title": "Dips & Chips",
+      "date": "2018-12-20 14:00:00"
     },
     {
       "title": "Lebanese Cuisine",
-      "date": "2018-04-30 14:00:00"
+      "date": "2018-12-21 14:00:00"
+    },
+    {
+      "title": "Quick Desserts",
+      "date": "2018-12-27 14:00:00"
+    },
+    {
+      "title": "Mexican Cuisine",
+      "date": "2018-12-28 14:00:00"
     }
   ]
 }
