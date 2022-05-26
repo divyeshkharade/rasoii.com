@@ -3,189 +3,189 @@
     {
       "title": "Basic Cookery Workshop",
       "description":"An ideal workshop to know the ABC's of cooking. A must for Students goin abroad, Newly weds, brides to be, senior citizen and any one who wants to zest up their daily cooking. Be a pro in your home kitchen with fun, easy and hassle free 25+ recipes for daily cooking in 3 days. Course includes varieties of Roti, Vegetables, Rice, Pulses, Snacks & Desserts along with smart cooking tips.",
-      "",
+      "fees": "6000",
       "duration_day":"3",
       "img_url": "/images/index/basic cookery workshop1.jpg"
     },
     {
       "title": "Basic Bakery Workshop",
       "description": "Bake delicious cakes with hassle free, no practise icing in 2 days. Course includes Vanilla sponge cake, Chocolate sponge cake, Chocolate Walnut Brownie, Pineapple with praline, Black forest cake, Dutch truffle cake, Orange Muffins, and a lot of variations along with Homemade praline, Chocolate ganache icing and cream icing",
-      "fees": "5000",
+      "fees": "7000",
       "duration_day": "2",
       "img_url": "/images/course/cakes.png"
     },
     {
      "title": "Roz Ki Tarkariyan (NEW)",
       "description": "Give your regular veggies a twist along with kitchen secrets to make everyday food healthy. Veggies like French beans, Bhindi, Aloo, Methi, Baigan, Guvar, Tindli, Karela, Dudhi, Cabbage, Cauliflower and many more",
-      "fees": "4000",
+      "fees": "5000",
       "duration_day": "2",
       "img_url": "/images/course/Fresh-Vegetables-Basket-HD-Wallpaper-04534.jpg"
      },
       {
       "title": "Healthy Soups (NEW)",
       "description": "Detox yourself with these quick, fuss free but Healthy soups like Veg. Laksa Soup, Nutty Carrot Soup, Roasted Pumpkin Soup, Leafy Asparagus Soup, Broccolli Almond Soup, Rustic Tomato Soup",
-      "fees": "2500",
+      "fees": "3000",
       "duration_day": "1",
       "img_url": "/images/course/healthy soups final.jpg"
      },
       {
       "title": "Refreshing Salads (NEW)",
       "description": "Healthy and flavorsome salads to refresh your meals. Course includes Salad Mexicana Lettucia, Strawspin Fusion Salad, Citrus Island Salad, Bean Thai Salad, Salad Italiana, Wal – Banana Fusion Salad.",
-      "fees": "2500",
+      "fees": "3000",
       "duration_day": "1",
       "img_url": "/images/course/Refreshing_Salads1_final.jpg"
      },
       {
       "title": "Lebanese Cuisine (NEW)",
       "description": "Learn the famous middle eastern delicacies like Hummus, Falafel balls, Tabbouleh salad, Fattoush salad, Baba Ghanoush, Tahini sauce, Paneer shawarma, Zataar garlic sauce.",
-      "fees": "2500",
+      "fees": "3000",
       "duration_day": "1",
       "img_url": "/images/course/falafel_wrap_thecozyapron_02-13-17_1.jpg"
      },
      {
       "title": "Pub Style Mocktails (NEW)",
       "description": "Learn exquistite pub style mocktails to sprice up you next house party! Zesty Mojito with lemon grass, Virgin sangria, Mocha on the Rocks, Virgin Guava Mary, Pineapple Basil Breeze, Citrus Melody",
-      "fees": "2500",
+      "fees": "3000",
       "duration_day": "1",
       "img_url": "/images/course/pub_mocktails.jpg"
     },
     {
       "title": "One Bowl Meal",
       "description": "Learn new authentic pan Asian cuisine, each served in a bowl. Course includes Burmese Khowsuey, Chinese clay pot rice, Massaman curry with rice noodles, Coconut rice with peanut curry, Kesari Biryani.",
-      "fees": "2500",
+      "fees": "3000",
       "duration_day": "1",
       "img_url": "/images/course/One Bowl meal1 final.jpg"
     },
     {
       "title": "Dips & Chips",
       "description": "Munch on with classic Dips like Almond & Broccoli Dip, Yellow Pepper Corn Dip, Roasted Bell Pepper Dip, Nutty Tomato Dip, Creamy Peanut Dip, Spicy Szechwan Dip along with toasted herbed pizza sticks and more.",
-      "fees": "2500",
+      "fees": "3000",
       "duration_day": "1",
       "img_url": "/images/course/Dips_Chips.jpg"
     },
     {
       "title": "Quick Desserts",
       "description": "Fun & easy 6 desserts to be done in a jiffy. Course includes Lava cake, Apple cinnamon sticks, Strawberry oreo flurry, Choco brownie delight, Chocolate mud crumble, Tiramisu.",
-      "fees": "2500",
+      "fees": "3000",
       "duration_day": "1",
       "img_url": "/images/course/Quick_desserts4.jpg"
     },
     {
       "title": "Wraps & Rolls",
       "description": "Learn fun foods like Kathi rolls, Tortilla cheese wraps, Farm house crepes, Veg Frankie, Mexican bean rolls, Paneer wraps in barbeque wraps.",
-      "fees": "2500",
+      "fees": "3000",
       "duration_day": "1",
       "img_url": "/images/course/wraps_rolls2.jpg"
     },
     {
       "title": "Toss & Grilled Starters",
       "description": "Make stir-fry and grilled starters. Course includes Paneer tikka, Seekh mutter kebab, Mexican baked potatoes, Corn paprika, Aloo achari, Stir fry vegetables in barbeque sauce.",
-      "fees": "2500",
+      "fees": "3000",
       "duration_day": "1",
       "img_url": "/images/course/Toss_Grill_starters2_paneer_tikka.jpg"
     },
     {
       "title": "Guilt Free Parathas",
       "description": "Enjoy wholesome & healthy parathas like Patiala Paratha, Kashmiri Paratha, Chatpata Chaat Paratha, Hare pyaaz ke Lifafe, Mughlai Paratha with Accompaniments like Achari Tamatar ki chutney and Khatte pyaaz ke laache",
-      "fees": "2500",
+      "fees": "3000",
       "duration_day": "1",
       "img_url": "/images/course/Only_Parathas_final.jpg"
     },
     {
       "title": "Punjabi Treat",
       "description": "Give a northern tadka with restaurant style vegetables like Paneer butter masala, Palak afghan, Kadai paneer, Diwani handi, Kashmiri duma aloo, Veg korma along with Chura laccha paratha.",
-      "fees": "2500",
+      "fees": "3000",
       "duration_day": "1",
       "img_url": "/images/course/punjabi_treat_final_dum_aloo.jpg"
     },
     {
       "title": "Royal Rajasthani Thali",
       "description": "Relish the royal taste of authentic rajasthani cuisine with Saufiyana Churma, Stuffed Masala Bati, Panchmel Dal, Methi Malai Gatta, Ker Sangri, Makai ki khichdi with flavored curd & more",
-      "fees": "2500",
+      "fees": "3000",
       "duration_day": "1",
       "img_url": "/images/course/Rajasthani_thali_final.jpg"
     },
     {
       "title": "Mexican Cuisine",
       "description": "Spice up with authentic Mexican dishes. Course includes spicy corn Paneer quisiladas, Nachos with cheese sauce, Corn toastadas, Beans & cheese enchiladas, Beans tacos, Tortilla soup",
-      "fees": "2500",
+      "fees": "3000",
       "duration_day": "1",
       "img_url": "/images/course/Mexican_cuisine1_final_tacos.jpg"
     },
     {
       "title": "Italian Cuisine",
       "description": "Learn baked dishes the Italian way! Course includes Garden fresh cannelloni, Creamy tortellini, Supreme lasagna, Risotto, Herbed potato augratin, Minestrone soup.",
-      "fees": "2500",
+      "fees": "3000",
       "duration_day": "1",
       "img_url": "/images/course/Italian_cannelloni.jpg"
     },
     {
       "title": "Chinese Cuisine",
       "description": "Learn restaurant style full course Chinese dishes. Course includes Man chow soup, Chilli crisp potatoes, Veg burnt rice, Exotic vegetables in hunan sauce, Tai-chi paneer, Hokkien mee noodles.",
-      "fees": "2500",
+      "fees": "3000",
       "duration_day": "1",
       "img_url": "/images/course/Chinese_Cuisine_final.jpg"
     },
     {
       "title": "Thai Cuisine",
       "description": "Make authentic Thai meal, rite in your kitchen. Course includes Tom yum soup, Som tom salad, Thai fried rice, Thai red curry, Pad thai noodles, Gree curry paste, Darsaan.",
-      "fees": "2500",
+      "fees": "3000",
       "duration_day": "1",
       "img_url": "/images/course/Thai_Cuisine_final.jpg"
     },
     {
       "title": "Sizzlers",
       "description": "Learn sizzling effect sizzlers with sauces like Black pepper sauce, Teriyaki sauce, Italian sauce, Barbeque sauce with smoked veggies, cutlets and chips.",
-      "fees": "2500",
+      "fees": "3000",
       "duration_day": "1",
       "img_url": "/images/course/sizzlers2.jpg"
     },
     {
       "title": "Gourmet Chocolates",
       "description": "An indulgent chocoholic workshop teaching some exclusive, designer & artisan chocolates. Course includes Choco Basil Cannelloni, Choco Crème Delight, Pina Colada Cups, Saffron Pistachio Bites, Peanut Butter Barks, Almond Florentine and Cashew Thins.",
-      "fees": "3000",
+      "fees": "4000",
       "duration_day": "1",
       "img_url": "/images/course/Gourmet_Chocolates_final.jpg"
     },
     {
       "title": "Party Starters",
       "description": "Make bite size starters, perfect for any party. Couse includes Thread paneer, Cream corn cake with cracking spinach, herbed cheese croquettes, broccoli pepper tarts, Paneer nutty cigar, Kung pao potatoes.",
-      "fees": "2500",
+      "fees": "3000",
       "duration_day": "1",
       "img_url": "/images/course/Party_starters1_paneer_nutty_cigars.jpg"
     },
     {
       "title": "La’Jawab Starters",
       "description": "Learn the classic & ever appetizing starters. You can’t go wrong with these ones! Course includes Chinese bhel, Veg. Crispy, Paneer Papdi, Spring Rolls, Cheese Canoli and Chilli Paneer.",
-      "fees": "2500",
+      "fees": "3000",
       "duration_day": "1",
       "img_url": "/images/course/Lajawab_starters4_chinese_bhel.jpg"
     },
     {
       "title": "Ethnic Sweets",
       "description": "Go ethnic with Jalebi, Sweet bundi, Mohanthaal, Moongdal Sheera, Malpua with Rabri and Flavored Coconut Barfi ",
-      "fees": "4000",
+      "fees": "5000",
       "duration_day": "1",
       "img_url": "/images/course/Ethnic_sweet1_jalebi.jpg"
     },
     {
       "title": "Mughlai Vegetables",
       "description": "Learn aunthentic mughali gravies like Mughlai Paneer, Subze Shahi, Veg. Kolhapuri, Kashmiri Methi Chaman, Methi Malai Mutter, Subze Begum Bahar, Badshahi Malai Kofta",
-      "fees": "2000",
+      "fees": "3000",
       "duration_day": "1",
       "img_url": "/images/course/Mughlai_Vegetables_final.jpg"
     },
     {
       "title": "Gujrati Snacks",
       "description": "Enjoy authentic gujrati style snacks like Khandvi, Haandvo, Patra, Amiri Khaman, Paneer Khaman Dhokla & Panki",
-      "fees": "2500",
+      "fees": "3000",
       "duration_day": "1",
       "img_url": "http://s29.postimg.org/wv3f43cuf/Gujratisnax.jpg"
     },
     {
       "title": "Winter Vegetables",
       "description": "Enjoy special winter flavors of different states of India like Gujrati - Undhiyo, Punjabi - Sarsoo ka Saag with Makke ki roti, Bihari – Paneer wale parwal, Hyderabadi – Hare Bhare Baigan, Kanpuri – Mutter Haldi lasoon & ajwani puri",
-      "fees": "2500",
+      "fees": "3000",
       "duration_day": "1",
       "img_url": "http://s17.postimg.org/wvt3lvuwv/sarsoon.jpg"
     }
